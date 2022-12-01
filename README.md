@@ -1,6 +1,6 @@
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="" alt="README Jokes"></a> -->
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="" height="400"></a>
+<a href="#"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="" height="400"></a>
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=yashvcomply&theme=react-dark&hide_border=true&area=true) -->
 
