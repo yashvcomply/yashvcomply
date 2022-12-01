@@ -1,19 +1,12 @@
-[![spotify-github-profile](https://spotify-github-
+<!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> -->
 
-profile.vercel.app/api/view?uid=zsjw8
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="" height="400"></a>
 
-sdf
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=yashvcomply&theme=react-dark&hide_border=true&area=true) -->
 
-sdf
+<!-- ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
 
-s
-df
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yashvcomply&theme=juicyfresh&no-bg=true" /> -->
 
-bffyt0md4e3u2z7e3faj&cover_image=true&theme=default)](https://spotify-github-profile
+<img src="https://profile-counter.glitch.me/{yashvcomply}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
-
-.vercel.app/api/view?uid=zsjw8bffyt0md4e3u2z7e3faj&redirect=true)
-
-
-
-ANMOL
