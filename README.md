@@ -17,5 +17,5 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=yashvcomply&theme=juicyfresh&no-bg=true" /> -->
 
-<img src="https://profile-counter.glitch.me/{yashvcomply}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{yashvcomply}/count.svg" alt="yashvcomply :: Visitor's Count" />
 
