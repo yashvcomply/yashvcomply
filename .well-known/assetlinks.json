@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.deeplinking",
+            "package_name": "app.vcomply.mobile.beta",
             "sha256_cert_fingerprints": [
-                "53:71:06:B0:FF:21:8B:FD:03:AA:E0:4F:F2:53:B8:62:02:7D:97:D5:53:BD:D1:5E:6A:23:A8:26:AF:17:E9:FE"
+                "CE:F1:7F:20:CB:7E:B7:35:01:CF:54:9F:24:D3:2F:4C:B7:A4:F0:16:8B:C5:3B:46:3B:5D:A0:41:A5:EF:CA:D3"
             ]
         }
     }
